@@ -1,6 +1,5 @@
-
-  color: white;
-  background-color: greay;
+,color: white;
+,background-color: greay;
 
 # Robert Thalheim
 
