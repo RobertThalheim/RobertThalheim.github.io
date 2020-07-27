@@ -1,5 +1,7 @@
-,color: white;
-,background-color: greay;
+/,color: white;
+/,background-color: greay;
+
+<span style="color:blue">some *This is Blue italic.* text</span>
 
 # Robert Thalheim
 
