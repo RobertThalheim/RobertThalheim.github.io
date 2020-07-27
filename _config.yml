@@ -1,5 +1,6 @@
 # file: _config.yml
 url: https://robertthalheim.com/
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 name: RT | The Motion
 title: null
 bg: grey
