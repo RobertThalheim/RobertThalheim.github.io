@@ -1,10 +1,7 @@
-code {
-  padding: 0;
-  font-size: 90%;
-  color: black;
-  background-color: white;
-  border: 0px solid white;
-}
+
+  color: white;
+  background-color: greay;
+
 # Robert Thalheim
 
 MOTION PICTURE & LIVE STREAMING  
