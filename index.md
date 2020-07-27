@@ -1,3 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
 # Robert Thalheim
 
 MOTION PICTURE, SOUND & LIVE STREAMING  
