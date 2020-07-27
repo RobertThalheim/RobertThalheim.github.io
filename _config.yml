@@ -3,4 +3,5 @@ url: https://robertthalheim.com/
 name: The Motion
 title: null
 google_analytics: UA-173647586-1
-icon: favicon.png
+plugins:
+  - jekyll-seo-tag
