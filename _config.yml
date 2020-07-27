@@ -1,5 +1,6 @@
 name: The Motion
 title: null
+bg: white
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
