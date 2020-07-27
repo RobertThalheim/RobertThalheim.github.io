@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 # Robert Thalheim
 
 MOTION PICTURE & LIVE STREAMING  
