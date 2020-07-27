@@ -1,5 +1,3 @@
-<span style="color:grey">some *This is Blue italic.* text</span>
-
 # Robert Thalheim
 
 MOTION PICTURE & LIVE STREAMING  
