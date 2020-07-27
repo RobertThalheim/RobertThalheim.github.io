@@ -1,6 +1,7 @@
 # Robert Thalheim
 
 MOTION PICTURE, SOUND & LIVE STREAMING
+
 hallo@robertthalheim.com
 
-![heavygrain](https://photos.app.goo.gl/oySkCojPRPPmRqfP8)
+![heavygrain](https://raw.githubusercontent.com/RobertThalheim/RobertThalheim.github.io/master/WEBSITE_bg_2.jpg)
